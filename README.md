@@ -1,4 +1,6 @@
-# yt-devmeetup-vue
+# ec-proto
+
+https://vue-test-89303.firebaseapp.com/
 
 > A Vue.js project
 
